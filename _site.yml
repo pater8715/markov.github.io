@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Model Simulation"
+  left:
+    - text: "Markov Chains"
+      href: index.html
+    - text: "Ejemplos"
+      href: markov.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate

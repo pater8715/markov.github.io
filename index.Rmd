@@ -1,0 +1,11 @@
+---
+title: "App Markov Chain"
+---
+
+## Aplication Markov Chain
+
+```{r}
+a = 10
+print(a)
+```
+
